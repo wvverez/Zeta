@@ -3,8 +3,8 @@
 
 ```sh
 PS C:\Users\wvverez\Desktop> python .\stealer.py
-[+] Pwned Token: <PWNED-TOKEN 😈>
-[+] Pwned Token: <PWNED-TOKEN 😈>
+[+] Pwned Token: <TOKEN 😈>
+[+] Pwned Token: <TOKEN 😈>
 ```
 
 > [!WARNING]
