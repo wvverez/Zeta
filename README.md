@@ -6,8 +6,6 @@
 
 ## Mode of use
 
----
-
 ```sh
 pip install -r requirements.txt
 ```
