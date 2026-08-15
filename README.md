@@ -1,5 +1,8 @@
 ## Mode of use
 
+```sh
+pip install -r requirements.txt
+```
 
 ```sh
 PS C:\Users\wvverez\Desktop> python .\stealer.py
