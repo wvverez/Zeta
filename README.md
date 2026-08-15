@@ -1,5 +1,9 @@
 ## Mode of use
 
+<p align="center">
+  <img src="/docs/zeta.png" alt="zeta" width="500">
+</p>
+
 ```sh
 pip install -r requirements.txt
 ```
